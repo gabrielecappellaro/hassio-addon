@@ -5,6 +5,7 @@ I made this repo because I often need to change some (little) things to adapt an
 ## Addon list
 - Xbox One (xbox-one)
    - I will replace it shortly because the creator deprecated it in favor of a new way of implementation
+- Double gauge card (dual-gauge-card)   
 
 ## How to use
 Add my repo link to hassio addon store.
