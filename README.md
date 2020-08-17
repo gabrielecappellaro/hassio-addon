@@ -3,7 +3,8 @@
 I made this repo because I often need to change some (little) things to adapt an addon to suit my needs.
 
 ## Addon list
-There is nothing here, or at leats for now. ;)
+- Xbox One (xbox-one)
+   - I will replace it shortly because the creator deprecated it in favor of a new way of implementation
 
 ## How to use
 Add my repo link to hassio addon store.
